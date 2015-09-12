@@ -1,5 +1,5 @@
 //4問目
-//(NOT(A)∩C)∪((B∩C)のを満たす人数を出力
+//(NOT(A)∩C)∪(B∩C)のを満たす人数を出力
 #include <iostream>
 #include <cstdlib>
 using namespace std;
