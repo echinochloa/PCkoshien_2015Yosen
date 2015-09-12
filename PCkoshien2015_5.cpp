@@ -1,3 +1,6 @@
+//5問目
+//忘れた…orz
+
 #include <iostream>
 using namespace std;
 
