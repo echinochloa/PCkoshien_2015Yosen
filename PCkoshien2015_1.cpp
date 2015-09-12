@@ -1,3 +1,6 @@
+//1問目
+//3つ入力してその合計を出力
+
 #include <iostream>
 
 int main()
